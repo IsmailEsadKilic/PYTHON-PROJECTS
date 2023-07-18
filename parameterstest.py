@@ -7,4 +7,3 @@ def test(a ="a",b="b",c="c",d="d",e="e",f="f"):
     print(f)
 
 test ("1",None,None,"2",f="what")
-    
